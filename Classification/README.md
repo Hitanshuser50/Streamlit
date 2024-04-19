@@ -49,7 +49,7 @@ To run the application locally, follow these steps:
    streamlit run app.py
   ```
 
-Note : if you have done some modification the rebuild the model by Running the Python file till then i am also uploding the pkl file and then Procced with the above Setup  
+Note : If you've made any modifications to your code, be sure to rebuild the model by running the Python file. Additionally, I am uploading the latest version of the penguins_clf.pkl file. Once you have both the file available, you can proceed with the setup instructions provided earlier 
 
 
 
