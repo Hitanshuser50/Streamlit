@@ -49,7 +49,7 @@ To run the application locally, follow these steps:
    streamlit run app.py
   ```
 
-Note : if you have done some modification the rebuild the model by Running the Python file and then Procced with the above Setup  
+Note : if you have done some modification the rebuild the model by Running the Python file till then i am also uploding the pkl file and then Procced with the above Setup  
 
 
 
