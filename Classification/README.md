@@ -36,10 +36,20 @@ To run the application locally, follow these steps:
    ```bash
    git clone https://github.com/Hitanshuser50/Streamlit.git
    ``` 
-```
-cd Streamlit
-```
+2. Navigate to the project directory:
+   ```bash
+    cd Streamlit
+   ```
+3.Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+4.Run the streamlit application 
+  ```
+   streamlit run app.py
+  ```
 
+Note : if you have done some modification the rebuild the model by Running the Python file and then Procced with the above Setup  
 
 
 
